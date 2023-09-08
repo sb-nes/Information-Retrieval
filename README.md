@@ -1,2 +1,5 @@
 # Information-Retrieval
-All the testing done in LAB 2
+Currently Working on:
+a. multiprocessing -> reduce edit_distance iteration time
+b. block sort algorithm
+c. dictionary compression
